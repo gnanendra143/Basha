@@ -1,0 +1,14 @@
+c:\users\gnane\documents\visual studio 2013\Projects\StudentDatabase\StudentDatabase\bin\Debug\StudentDatabase.exe.config
+c:\users\gnane\documents\visual studio 2013\Projects\StudentDatabase\StudentDatabase\bin\Debug\StudentDatabase.exe
+c:\users\gnane\documents\visual studio 2013\Projects\StudentDatabase\StudentDatabase\bin\Debug\StudentDatabase.pdb
+c:\users\gnane\documents\visual studio 2013\Projects\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.csprojResolveAssemblyReference.cache
+c:\users\gnane\documents\visual studio 2013\Projects\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.Home.resources
+c:\users\gnane\documents\visual studio 2013\Projects\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.Properties.Resources.resources
+c:\users\gnane\documents\visual studio 2013\Projects\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.csproj.GenerateResource.Cache
+c:\users\gnane\documents\visual studio 2013\Projects\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.exe
+c:\users\gnane\documents\visual studio 2013\Projects\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.pdb
+c:\users\gnane\documents\visual studio 2013\Projects\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.Course.resources
+C:\Users\gnane\Documents\Visual Studio 2013\Projects\StudentDatabase\StudentDatabase\bin\Debug\StudentDatabase.mdf
+C:\Users\gnane\Documents\Visual Studio 2013\Projects\StudentDatabase\StudentDatabase\bin\Debug\StudentDatabase_log.ldf
+C:\Users\gnane\Documents\Visual Studio 2013\Projects\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.Student.resources
+C:\Users\gnane\Documents\Visual Studio 2013\Projects\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.Query.resources
